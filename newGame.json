@@ -1,0 +1,18 @@
+{
+  "username": "USERNAME",
+  "job": "EMPTY",
+  "gold": 0,
+  "hp": 10,
+  "mp": 10,
+  "level": 0,
+  "experience": 0,
+  "def": 10,
+  "atk": 10,
+  "magicDef": 10,
+  "physicsDef": 10,
+  "lastUpdateTime": TIMESTAMP,
+  "equipment": {
+    "bloodPill": 0,
+    "magicPill": 0,
+  }
+}

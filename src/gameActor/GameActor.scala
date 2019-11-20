@@ -1,0 +1,5 @@
+package gameActor
+
+class GameActor {
+
+}
